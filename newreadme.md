@@ -1,22 +1,22 @@
-# a 
+# Generator 
 
 ## Description 
- a 
+ makes new read me 
 ## Table of contents 
  - [Installation](#installation) 
  - [Usage](#usage) 
  - [contributing](#contributing) 
  - [Tests](#tests) 
 ## Installation 
- a 
+ add js file 
 ## Usage 
- a 
+ follow prompt on command line with node.js 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ## Contributing 
- a 
+ Me 
 ## Tests 
- a 
+ na 
 ## Questions 
- - [Github](https://github.com/a) 
- - [Email](mailto:a)
+ - [Github](https://github.com/raygun2thehead) 
+ - [Email](mailto:stevenes83@gmail.com)
