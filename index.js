@@ -39,7 +39,7 @@ inquirer.prompt([
     },
     {
         type: "input",
-        name: "test",
+        name: "tests",
         message: "Project Test:"
     },
     {
@@ -59,7 +59,7 @@ inquirer.prompt([
         const installation = data.installation;
         const usage = data.usage;
         const contributing = data.contributing;
-        const test = data.test;
+        const tests = data.tests;
         const license = data.license;
         const github = data.github;
         const email = data.email;
@@ -109,7 +109,7 @@ inquirer.prompt([
                             if (err) {
                                 return console.log(err);
                             }
-                            fs.appendFile("newreadme.md", `## Test \n ${test} \n`, function (err) {
+                            fs.appendFile("newreadme.md", `## Tests \n ${tests} \n`, function (err) {
                                 if (err) {
                                     return console.log(err);
                                 }

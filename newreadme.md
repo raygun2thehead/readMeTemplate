@@ -13,9 +13,9 @@
  a 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-## contributing 
+## Contributing 
  a 
-## Test 
+## Tests 
  a 
 ## Questions 
  - [Github](https://github.com/a) 
